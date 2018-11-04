@@ -1,4 +1,4 @@
-# Assessment
+# GIS Assessment
 
 //OpenLayers.ProxyHost = "/cgi-bin/proxy.cgi?url=";
 /*specifying the extent of the map*/
